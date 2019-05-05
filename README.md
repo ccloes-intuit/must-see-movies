@@ -13,6 +13,8 @@ Must see movies from 2018 - 2020
 Must see tv shows from 2018 - 2020
 
 * Bird Box - https://www.imdb.com/title/tt2737304/
+* Game of Thrones - https://www.imdb.com/title/tt0944947/
+* Black Sails - https://www.imdb.com/title/tt2375692/
 
 # must-read-books
 Books or authors from 2018 - 2020
