@@ -10,7 +10,7 @@ Must see movies from 2018 - 2020
 * Avengers: Endgame - https://www.imdb.com/title/tt4154796/
 
 # must-see-tvshows
-Must see tv shows from 2018 - 2020
+Must see tv shows from 2018 - 2020 (some are TV-MA)
 
 * Bird Box - https://www.imdb.com/title/tt2737304/
 * Game of Thrones - https://www.imdb.com/title/tt0944947/
